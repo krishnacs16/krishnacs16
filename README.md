@@ -1,33 +1,33 @@
 <div align="center">
 
-Hi there, I’m Krishna Sharma 👋
+👋 Hey, I’m Krishna Sharma
 
 Machine Learning Engineer • Backend Developer • Cloud Enthusiast
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI+Applications;Designing+Scalable+Backends;Learning+Go+%26+Distributed+Systems;Always+Learning+Something+New" alt="Typing SVG" />
 </div>
 
 ⸻
 
-👨‍💻 About Me
+🚀 About Me
 
-I’m a Machine Learning Engineer with a strong interest in building intelligent, scalable, and production-ready applications. My work spans machine learning, backend development, cloud technologies, and distributed systems.
-
-I enjoy transforming ideas into real-world projects while continuously exploring new technologies and software engineering best practices.
-
-Currently, I’m focused on:
-
-* 🌱 Learning Go for backend and systems programming.
-* ☁️ Building an AWS-inspired local cloud platform using Docker.
-* 🤖 Developing AI-powered applications and backend services.
-* 🚀 Contributing to open-source and sharpening my engineering skills.
+💡 Passionate about building intelligent systems and scalable software.
+🧠 Exploring Machine Learning, Backend Engineering,
+   Distributed Systems, and Cloud Technologies.
+⚙️ Currently learning Go while building an AWS-inspired
+   local cloud platform powered by Docker.
+📚 I believe the best way to learn is by building,
+   experimenting, and shipping real-world projects.
 
 ⸻
 
-“Learning by building.”
+<div align="center">
 
-This GitHub serves as a collection of my projects, experiments, and contributions as I continue growing as a software and machine learning engineer.
+“Code. Learn. Build. Repeat.”
 
+Every repository here represents a step in my journey as an engineer.
 
+</div>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnash16) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:howkrishna16@gmail.com) 
 
