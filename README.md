@@ -29,9 +29,6 @@ ML Engineer by trade → Backend Engineer by obsession → Cloud Architect in pr
 - **Go** — concurrency patterns, building CLI tools and HTTP servers
 - **AWS Deep Dives** — moving from using services to understanding how they work internally
 
-<div align="center">
-  Code. Learn. Build. Repeat.
-</div>
 
 
 # 💻 Tech Stack:
