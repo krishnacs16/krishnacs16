@@ -1,32 +1,36 @@
 <div align="center">
 
-👋 Hey, I’m Krishna Sharma
+# Krishna Sharma
 
-Machine Learning Engineer • Backend Developer • Cloud Enthusiast
+**ML Engineer · Backend Developer · Cloud Enthusiast**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI+Applications;Designing+Scalable+Backends;Learning+Go+%26+Distributed+Systems;Always+Learning+Something+New" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+Applications;Designing+Scalable+Backends;Learning+Go+%26+Distributed+Systems;Always+Building+Something+New)](https://git.io/typing-svg)
+
 </div>
 
-⸻
+---
 
-🚀 About Me
+## About
 
-💡 Passionate about building intelligent systems and scalable software.
-🧠 Exploring Machine Learning, Backend Engineering,
-   Distributed Systems, and Cloud Technologies.
-⚙️ Currently learning Go while building an AWS-inspired
-   local cloud platform powered by Docker.
-📚 I believe the best way to learn is by building,
-   experimenting, and shipping real-world projects.
+I build intelligent systems and the infrastructure behind them. My current focus is on the intersection of machine learning and backend engineering — where models meet production.
 
-⸻
+Right now I'm learning **Go** by building an **AWS-inspired local cloud platform** powered by Docker. Best way to understand a tool? Rebuild it from scratch.
+
+```
+ML Engineer by trade → Backend Engineer by obsession → Cloud Architect in progress
+```
+
+---
+
+
+## Currently Learning
+
+- **Distributed Systems** — consensus algorithms, fault tolerance, CAP theorem in practice
+- **Go** — concurrency patterns, building CLI tools and HTTP servers
+- **AWS Deep Dives** — moving from using services to understanding how they work internally
 
 <div align="center">
-
-“Code. Learn. Build. Repeat.”
-
-Every repository here represents a step in my journey as an engineer.
-
+<sub>Code. Learn. Build. Repeat.</sub>
 </div>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnash16) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:howkrishna16@gmail.com) 
